@@ -1,9 +1,14 @@
 {
   "ExpandedNodes": [
     "",
+    "\\css",
+    "\\css\\font-awesome",
+    "\\img",
+    "\\js",
     "\\_includes",
-    "\\_includes\\css"
+    "\\_includes\\css",
+    "\\_layouts"
   ],
-  "SelectedNode": "\\style.css",
+  "SelectedNode": "\\index.html",
   "PreviewInSolutionExplorer": false
 }
